@@ -1,0 +1,35 @@
+body {
+    background-color: #dcadeb;
+}
+
+.yesButton {
+    text-align: center;
+    background-color: #c29090;
+    height: 150px;
+    width: 300px;
+    font-size: 300%;
+    position: fixed;
+    bottom: 470px;
+    right: 920px;
+    border-radius: 10px;
+}
+
+.noButton {
+    text-align: center;
+    background-color: #c29090;
+    height: 150px;
+    width: 300px;
+    font-size: 300%;
+    position: fixed;
+    bottom: 470px;
+    right: 600px;
+    border-radius: 10px;
+}
+
+.text {
+    font-size: 300%;
+    text-shadow: -5px 3px 5px #000;
+    position: fixed;
+    right: 640px;
+    top: 200px;
+}
